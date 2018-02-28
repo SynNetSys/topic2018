@@ -1,9 +1,4 @@
 
-body {
-    padding-top: 70px;
-}
-
-
 .navbar-default {
   background-color: #1f79bf;
   border-color: #3596e1;
@@ -52,9 +47,7 @@ body {
 }
 
 @media (max-width: 767px) {
-  body {
-    padding-top: 100px; 
-  }
+
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #ffffff;
   }
@@ -65,4 +58,6 @@ body {
     color: #d6d6d6;
     background-color: #3596e1;
   }
+
 }
+
